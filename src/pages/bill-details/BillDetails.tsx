@@ -31,7 +31,7 @@ const BillDetails = () => {
               <p>+0 (000) 123-4567</p>
             </div>
             <div>
-              <p className="text-(--color-primary-text) mb-1 text-xs font-medium">
+              <p className="text-(--color-primary-text)  mb-1 text-xs font-medium">
                 Subject
               </p>
               <p className="text-(--color-secondary-text) text-xs font-semibold">
