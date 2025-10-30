@@ -1,0 +1,11 @@
+/* theme.css */
+@theme {
+  --font-sans: "Gilroy", sans-serif;
+  --font-alt: "Klavika", sans-serif;
+  --font-sora: "Sora", sans-serif;
+
+  --color-primary: #f1eae2;
+  --color-primary-text: #5e6470;
+  --color-secondary-text: #1a1c21;
+  --color-border:#D7DAE0;
+}
